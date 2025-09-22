@@ -1,0 +1,14 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\bin\Debug\net9.0\uvod_do_programovani.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\bin\Debug\net9.0\uvod_do_programovani.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\bin\Debug\net9.0\uvod_do_programovani.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\bin\Debug\net9.0\uvod_do_programovani.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\bin\Debug\net9.0\uvod_do_programovani.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\uvod_do_programovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\uvod_do_programovani.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\uvod_do_programovani.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\uvod_do_programovani.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\uvod_do_programovani.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\refint\uvod_do_programovani.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\uvod_do_programovani.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\uvod_do_programovani.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\uvod_do_programovani\uvod_do_programovani\obj\Debug\net9.0\ref\uvod_do_programovani.dll

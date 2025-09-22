@@ -1,0 +1,14 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\bin\Debug\net9.0\vstup_vystup.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\bin\Debug\net9.0\vstup_vystup.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\bin\Debug\net9.0\vstup_vystup.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\bin\Debug\net9.0\vstup_vystup.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\bin\Debug\net9.0\vstup_vystup.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\vstup_vystup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\vstup_vystup.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\vstup_vystup.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\vstup_vystup.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\vstup_vystup.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\refint\vstup_vystup.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\vstup_vystup.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\vstup_vystup.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\vstup_vystup\vstup_vystup\obj\Debug\net9.0\ref\vstup_vystup.dll
