@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Proc_Domaci_a_hoste/1.0.0": {
+        "runtime": {
+          "Proc_Domaci_a_hoste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proc_Domaci_a_hoste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
