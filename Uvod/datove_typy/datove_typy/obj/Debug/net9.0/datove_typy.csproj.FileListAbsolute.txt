@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\bin\Debug\net9.0\datove_typy.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\bin\Debug\net9.0\datove_typy.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\bin\Debug\net9.0\datove_typy.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\bin\Debug\net9.0\datove_typy.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\bin\Debug\net9.0\datove_typy.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\refint\datove_typy.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\datove_typy.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\Uvod\datove_typy\datove_typy\obj\Debug\net9.0\ref\datove_typy.dll
