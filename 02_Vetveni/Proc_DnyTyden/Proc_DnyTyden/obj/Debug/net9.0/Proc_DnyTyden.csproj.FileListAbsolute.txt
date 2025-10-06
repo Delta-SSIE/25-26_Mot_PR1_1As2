@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\bin\Debug\net9.0\Proc_DnyTyden.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\bin\Debug\net9.0\Proc_DnyTyden.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\bin\Debug\net9.0\Proc_DnyTyden.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\bin\Debug\net9.0\Proc_DnyTyden.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\bin\Debug\net9.0\Proc_DnyTyden.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\refint\Proc_DnyTyden.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\Proc_DnyTyden.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Proc_DnyTyden\Proc_DnyTyden\obj\Debug\net9.0\ref\Proc_DnyTyden.dll
