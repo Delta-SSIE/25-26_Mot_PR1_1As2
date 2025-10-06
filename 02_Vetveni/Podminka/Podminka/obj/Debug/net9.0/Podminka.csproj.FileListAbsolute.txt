@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\bin\Debug\net9.0\Podminka.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\bin\Debug\net9.0\Podminka.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\bin\Debug\net9.0\Podminka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\bin\Debug\net9.0\Podminka.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\bin\Debug\net9.0\Podminka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\refint\Podminka.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\Podminka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Podminka\Podminka\obj\Debug\net9.0\ref\Podminka.dll
