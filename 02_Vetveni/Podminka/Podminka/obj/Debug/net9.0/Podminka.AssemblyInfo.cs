@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Podminka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfebc9b27da5c4779c86a3c80799775b3ddcb922")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fb636af476d003c2a45db3b33aade2341a3540e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Podminka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Podminka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

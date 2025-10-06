@@ -1,4 +1,6 @@
-﻿namespace Podminka
+﻿using System.Runtime.InteropServices;
+
+namespace Podminka
 {
     internal class Program
     {
@@ -63,8 +65,32 @@
             //Toto se spustí, pokud obě podmínky jsou FALSE
             {
                 Console.WriteLine("Neznámý vstup");
-            } 
+            }
 
+            //Logické operátory v podmínce
+            bool dospely = true;
+            bool penize = true;
+
+            //AND (Pravý ALT + C = &) 
+            //Podmínka platí pouze pokud je dospělý A ZAROVEN má peníze
+            if (dospely == true && penize == true)
+            {
+                Console.WriteLine("Naliju alkohol!");
+            } else
+            {
+                Console.WriteLine("Do hospody nelez!");
+            }
+
+            //OR (Pravý ALT + W = |)
+            //Podmínka platí pokud je dospělý nebo má peníze (nebo obojí)
+            if (dospely == true || penize == true)
+            {
+                Console.WriteLine("Naliju alkohol!");
+            }
+            else
+            {
+                Console.WriteLine("Do hospody nelez!");
+            }
         }
     }
 }
