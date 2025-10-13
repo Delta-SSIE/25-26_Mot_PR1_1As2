@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\bin\Debug\net9.0\Generace_nah_cisel.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\bin\Debug\net9.0\Generace_nah_cisel.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\bin\Debug\net9.0\Generace_nah_cisel.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\bin\Debug\net9.0\Generace_nah_cisel.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\bin\Debug\net9.0\Generace_nah_cisel.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\refint\Generace_nah_cisel.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\Generace_nah_cisel.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\02_Vetveni\Generace_nah_cisel\Generace_nah_cisel\obj\Debug\net9.0\ref\Generace_nah_cisel.dll
