@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\bin\Debug\net9.0\Soucet_v_intervalu.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\bin\Debug\net9.0\Soucet_v_intervalu.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\bin\Debug\net9.0\Soucet_v_intervalu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\bin\Debug\net9.0\Soucet_v_intervalu.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\bin\Debug\net9.0\Soucet_v_intervalu.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\refint\Soucet_v_intervalu.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\Soucet_v_intervalu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_v_intervalu\Soucet_v_intervalu\obj\Debug\net9.0\ref\Soucet_v_intervalu.dll

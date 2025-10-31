@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\03_While\\Soucet_zadanych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6214F3E5-7C82-4185-9DE7-B8636C678E17}|Soucet_zadanych\\Soucet_zadanych.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\03_while\\soucet_zadanych\\soucet_zadanych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214F3E5-7C82-4185-9DE7-B8636C678E17}|Soucet_zadanych\\Soucet_zadanych.csproj|solutionrelative:soucet_zadanych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\03_While\\Soucet_zadanych\\Soucet_zadanych\\Program.cs",
+              "RelativeDocumentMoniker": "Soucet_zadanych\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\03_While\\Soucet_zadanych\\Soucet_zadanych\\Program.cs",
+              "RelativeToolTip": "Soucet_zadanych\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:13:37.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Soucet_zadanych/1.0.0": {
+        "runtime": {
+          "Soucet_zadanych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soucet_zadanych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

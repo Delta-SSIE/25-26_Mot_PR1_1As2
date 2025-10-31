@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\bin\Debug\net9.0\Soucet_zadanych.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\bin\Debug\net9.0\Soucet_zadanych.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\bin\Debug\net9.0\Soucet_zadanych.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\bin\Debug\net9.0\Soucet_zadanych.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\bin\Debug\net9.0\Soucet_zadanych.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\refint\Soucet_zadanych.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\Soucet_zadanych.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Soucet_zadanych\Soucet_zadanych\obj\Debug\net9.0\ref\Soucet_zadanych.dll
