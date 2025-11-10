@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\bin\Debug\net9.0\Jednoduche_Sifrovani.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\bin\Debug\net9.0\Jednoduche_Sifrovani.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\bin\Debug\net9.0\Jednoduche_Sifrovani.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\bin\Debug\net9.0\Jednoduche_Sifrovani.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\bin\Debug\net9.0\Jednoduche_Sifrovani.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\refint\Jednoduche_Sifrovani.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\Jednoduche_Sifrovani.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\Jednoduche_Sifrovani\Jednoduche_Sifrovani\obj\Debug\net9.0\ref\Jednoduche_Sifrovani.dll
