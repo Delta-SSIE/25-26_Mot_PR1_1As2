@@ -39,6 +39,23 @@
 
             Console.WriteLine(sif_text);
 
+            pocitadlo = 0;
+
+            while (pocitadlo < sif_text.Length)
+            {
+                if (sif_text[pocitadlo] == sif_znak)
+                {
+                    des_text += zasf_znak;
+                }
+                else
+                {
+                    des_text += sif_text[pocitadlo];
+                }
+                pocitadlo++;
+            }
+
+            Console.WriteLine(des_text);
+
         }
     }
 }

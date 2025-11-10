@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jednoduche_Sifrovani")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+784145c86693da905962870b438136a74382ad7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba12f1db3c3cf8d2160046889a89e79e20c0981c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jednoduche_Sifrovani")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jednoduche_Sifrovani")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
