@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\bin\Debug\net9.0\caesar_zaklad.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\bin\Debug\net9.0\caesar_zaklad.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\bin\Debug\net9.0\caesar_zaklad.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\bin\Debug\net9.0\caesar_zaklad.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\bin\Debug\net9.0\caesar_zaklad.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\refint\caesar_zaklad.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\caesar_zaklad.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\03_While\caesar_zaklad\caesar_zaklad\obj\Debug\net9.0\ref\caesar_zaklad.dll
