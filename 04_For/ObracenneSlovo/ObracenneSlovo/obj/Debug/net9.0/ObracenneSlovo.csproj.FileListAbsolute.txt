@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\bin\Debug\net9.0\ObracenneSlovo.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\bin\Debug\net9.0\ObracenneSlovo.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\bin\Debug\net9.0\ObracenneSlovo.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\bin\Debug\net9.0\ObracenneSlovo.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\bin\Debug\net9.0\ObracenneSlovo.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\refint\ObracenneSlovo.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ObracenneSlovo.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\ObracenneSlovo\ObracenneSlovo\obj\Debug\net9.0\ref\ObracenneSlovo.dll
