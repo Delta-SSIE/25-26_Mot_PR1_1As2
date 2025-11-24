@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\bin\Debug\net9.0\Proc_Vlozte_Oddelovac.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\bin\Debug\net9.0\Proc_Vlozte_Oddelovac.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\bin\Debug\net9.0\Proc_Vlozte_Oddelovac.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\bin\Debug\net9.0\Proc_Vlozte_Oddelovac.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\bin\Debug\net9.0\Proc_Vlozte_Oddelovac.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\refint\Proc_Vlozte_Oddelovac.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\Proc_Vlozte_Oddelovac.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Proc_Vlozte_Oddelovac\Proc_Vlozte_Oddelovac\obj\Debug\net9.0\ref\Proc_Vlozte_Oddelovac.dll
