@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\bin\Debug\net9.0\Malovani_For.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\bin\Debug\net9.0\Malovani_For.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\bin\Debug\net9.0\Malovani_For.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\bin\Debug\net9.0\Malovani_For.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\bin\Debug\net9.0\Malovani_For.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\refint\Malovani_For.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\Malovani_For.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\Malovani_For\Malovani_For\obj\Debug\net9.0\ref\Malovani_For.dll
