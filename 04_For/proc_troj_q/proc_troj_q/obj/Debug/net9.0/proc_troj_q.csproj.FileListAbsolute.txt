@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\bin\Debug\net9.0\proc_troj_q.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\bin\Debug\net9.0\proc_troj_q.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\bin\Debug\net9.0\proc_troj_q.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\bin\Debug\net9.0\proc_troj_q.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\bin\Debug\net9.0\proc_troj_q.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\refint\proc_troj_q.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\proc_troj_q.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\04_For\proc_troj_q\proc_troj_q\obj\Debug\net9.0\ref\proc_troj_q.dll
