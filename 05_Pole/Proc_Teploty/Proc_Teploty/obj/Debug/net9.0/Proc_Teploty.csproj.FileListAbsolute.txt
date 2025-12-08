@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\bin\Debug\net9.0\Proc_Teploty.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\bin\Debug\net9.0\Proc_Teploty.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\bin\Debug\net9.0\Proc_Teploty.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\bin\Debug\net9.0\Proc_Teploty.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\bin\Debug\net9.0\Proc_Teploty.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\refint\Proc_Teploty.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\Proc_Teploty.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Proc_Teploty\Proc_Teploty\obj\Debug\net9.0\ref\Proc_Teploty.dll
