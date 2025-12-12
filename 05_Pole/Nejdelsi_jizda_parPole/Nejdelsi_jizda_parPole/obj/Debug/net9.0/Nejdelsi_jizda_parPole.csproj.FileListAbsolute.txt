@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\bin\Debug\net9.0\Nejdelsi_jizda_parPole.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\bin\Debug\net9.0\Nejdelsi_jizda_parPole.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\bin\Debug\net9.0\Nejdelsi_jizda_parPole.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\bin\Debug\net9.0\Nejdelsi_jizda_parPole.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\bin\Debug\net9.0\Nejdelsi_jizda_parPole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\refint\Nejdelsi_jizda_parPole.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\Nejdelsi_jizda_parPole.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Nejdelsi_jizda_parPole\Nejdelsi_jizda_parPole\obj\Debug\net9.0\ref\Nejdelsi_jizda_parPole.dll
