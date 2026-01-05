@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\bin\Debug\net9.0\Resize_Pole.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\bin\Debug\net9.0\Resize_Pole.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\bin\Debug\net9.0\Resize_Pole.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\bin\Debug\net9.0\Resize_Pole.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\bin\Debug\net9.0\Resize_Pole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\refint\Resize_Pole.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\Resize_Pole.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\05_Pole\Resize_Pole\Resize_Pole\obj\Debug\net9.0\ref\Resize_Pole.dll
