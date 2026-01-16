@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\bin\Debug\net9.0\Metody_Overloading_defaultValue.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\bin\Debug\net9.0\Metody_Overloading_defaultValue.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\bin\Debug\net9.0\Metody_Overloading_defaultValue.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\bin\Debug\net9.0\Metody_Overloading_defaultValue.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\bin\Debug\net9.0\Metody_Overloading_defaultValue.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\refint\Metody_Overloading_defaultValue.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\Metody_Overloading_defaultValue.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Overloading_defaultValue\Metody_Overloading_defaultValue\obj\Debug\net9.0\ref\Metody_Overloading_defaultValue.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Metody_Overloading_defaultValue/1.0.0": {
+        "runtime": {
+          "Metody_Overloading_defaultValue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metody_Overloading_defaultValue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
