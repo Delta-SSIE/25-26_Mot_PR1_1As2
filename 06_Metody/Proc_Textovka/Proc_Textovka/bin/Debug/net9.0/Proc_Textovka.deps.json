@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Proc_Textovka/1.0.0": {
+        "runtime": {
+          "Proc_Textovka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proc_Textovka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

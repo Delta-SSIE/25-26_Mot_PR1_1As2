@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\06_Metody\\Proc_Textovka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2814A186-6747-47AA-80B6-57EF86B38523}|Proc_Textovka\\Proc_Textovka.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\06_metody\\proc_textovka\\proc_textovka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2814A186-6747-47AA-80B6-57EF86B38523}|Proc_Textovka\\Proc_Textovka.csproj|solutionrelative:proc_textovka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\06_Metody\\Proc_Textovka\\Proc_Textovka\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_Textovka\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\06_Metody\\Proc_Textovka\\Proc_Textovka\\Program.cs",
+              "RelativeToolTip": "Proc_Textovka\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:37:51.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

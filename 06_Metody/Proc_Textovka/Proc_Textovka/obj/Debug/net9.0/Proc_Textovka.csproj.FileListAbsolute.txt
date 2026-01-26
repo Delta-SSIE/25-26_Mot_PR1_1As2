@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\bin\Debug\net9.0\Proc_Textovka.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\bin\Debug\net9.0\Proc_Textovka.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\bin\Debug\net9.0\Proc_Textovka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\bin\Debug\net9.0\Proc_Textovka.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\bin\Debug\net9.0\Proc_Textovka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\refint\Proc_Textovka.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\Proc_Textovka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Proc_Textovka\Proc_Textovka\obj\Debug\net9.0\ref\Proc_Textovka.dll
