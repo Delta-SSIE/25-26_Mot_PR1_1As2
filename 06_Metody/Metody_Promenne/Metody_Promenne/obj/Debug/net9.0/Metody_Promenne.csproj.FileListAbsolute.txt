@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\bin\Debug\net9.0\Metody_Promenne.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\bin\Debug\net9.0\Metody_Promenne.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\bin\Debug\net9.0\Metody_Promenne.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\bin\Debug\net9.0\Metody_Promenne.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\bin\Debug\net9.0\Metody_Promenne.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\refint\Metody_Promenne.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\Metody_Promenne.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\06_Metody\Metody_Promenne\Metody_Promenne\obj\Debug\net9.0\ref\Metody_Promenne.dll
