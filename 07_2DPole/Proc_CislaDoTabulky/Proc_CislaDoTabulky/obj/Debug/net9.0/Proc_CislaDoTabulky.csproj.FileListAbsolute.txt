@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\bin\Debug\net9.0\Proc_CislaDoTabulky.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\bin\Debug\net9.0\Proc_CislaDoTabulky.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\bin\Debug\net9.0\Proc_CislaDoTabulky.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\bin\Debug\net9.0\Proc_CislaDoTabulky.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\bin\Debug\net9.0\Proc_CislaDoTabulky.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\refint\Proc_CislaDoTabulky.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\Proc_CislaDoTabulky.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\07_2DPole\Proc_CislaDoTabulky\Proc_CislaDoTabulky\obj\Debug\net9.0\ref\Proc_CislaDoTabulky.dll
