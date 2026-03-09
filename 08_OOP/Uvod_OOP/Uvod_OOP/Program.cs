@@ -44,7 +44,13 @@
             jablko.SetChut("sladoucke");
             Console.WriteLine("Moje " + jablko.nazev + " je " + jablko.GetChut());
 
-
+            /* Inicializace vs. Deklarace a nahraní hodnoty
+            Ovoce banan;
+            banan = new Ovoce();
+           
+            Ovoce banan = new Ovoce();
+            Console.WriteLine(banan.nazev);
+             */
 
         }
     }
