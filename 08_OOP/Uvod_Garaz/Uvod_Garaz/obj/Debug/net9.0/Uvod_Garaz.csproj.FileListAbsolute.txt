@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\bin\Debug\net9.0\Uvod_Garaz.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\bin\Debug\net9.0\Uvod_Garaz.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\bin\Debug\net9.0\Uvod_Garaz.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\bin\Debug\net9.0\Uvod_Garaz.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\bin\Debug\net9.0\Uvod_Garaz.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\refint\Uvod_Garaz.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\Uvod_Garaz.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Uvod_Garaz\Uvod_Garaz\obj\Debug\net9.0\ref\Uvod_Garaz.dll

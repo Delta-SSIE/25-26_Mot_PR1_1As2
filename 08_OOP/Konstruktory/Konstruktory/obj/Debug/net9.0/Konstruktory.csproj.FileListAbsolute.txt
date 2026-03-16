@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\bin\Debug\net9.0\Konstruktory.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\bin\Debug\net9.0\Konstruktory.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\bin\Debug\net9.0\Konstruktory.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\bin\Debug\net9.0\Konstruktory.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\bin\Debug\net9.0\Konstruktory.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\refint\Konstruktory.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\Konstruktory.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Konstruktory\Konstruktory\obj\Debug\net9.0\ref\Konstruktory.dll
