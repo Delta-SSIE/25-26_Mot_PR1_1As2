@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\08_oop\\skolni_system\\skolni_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|solutionrelative:skolni_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\08_oop\\skolni_system\\skolni_system\\znamka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|solutionrelative:skolni_system\\znamka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\08_oop\\skolni_system\\skolni_system\\skola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|solutionrelative:skolni_system\\skola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\08_oop\\skolni_system\\skolni_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CB7D4E-3CD1-4644-B08E-2167F1C85E9D}|Skolni_system\\Skolni_system.csproj|solutionrelative:skolni_system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Znamka.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Znamka.cs",
+              "RelativeDocumentMoniker": "Skolni_system\\Znamka.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Znamka.cs",
+              "RelativeToolTip": "Skolni_system\\Znamka.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:48:27.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skola.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Skola.cs",
+              "RelativeDocumentMoniker": "Skolni_system\\Skola.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Skola.cs",
+              "RelativeToolTip": "Skolni_system\\Skola.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:39:24.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Student.cs",
+              "RelativeDocumentMoniker": "Skolni_system\\Student.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Student.cs",
+              "RelativeToolTip": "Skolni_system\\Student.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:33:17.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Program.cs",
+              "RelativeDocumentMoniker": "Skolni_system\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\08_OOP\\Skolni_system\\Skolni_system\\Program.cs",
+              "RelativeToolTip": "Skolni_system\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T07:32:41.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
