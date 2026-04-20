@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\bin\Debug\net9.0\Zapouzdreni.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\bin\Debug\net9.0\Zapouzdreni.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\bin\Debug\net9.0\Zapouzdreni.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\bin\Debug\net9.0\Zapouzdreni.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\bin\Debug\net9.0\Zapouzdreni.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\refint\Zapouzdreni.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\Zapouzdreni.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\08_OOP\Zapouzdreni\Zapouzdreni\obj\Debug\net9.0\ref\Zapouzdreni.dll
