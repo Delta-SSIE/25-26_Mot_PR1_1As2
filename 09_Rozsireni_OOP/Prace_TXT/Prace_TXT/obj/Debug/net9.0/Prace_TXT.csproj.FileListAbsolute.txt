@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\bin\Debug\net9.0\Prace_TXT.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\bin\Debug\net9.0\Prace_TXT.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\bin\Debug\net9.0\Prace_TXT.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\bin\Debug\net9.0\Prace_TXT.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\bin\Debug\net9.0\Prace_TXT.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\refint\Prace_TXT.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\Prace_TXT.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Prace_TXT\Prace_TXT\obj\Debug\net9.0\ref\Prace_TXT.dll

@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\net9.0\StreamReader_StreamWriter.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\net9.0\StreamReader_StreamWriter.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\net9.0\StreamReader_StreamWriter.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\net9.0\StreamReader_StreamWriter.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\net9.0\StreamReader_StreamWriter.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\refint\StreamReader_StreamWriter.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\StreamReader_StreamWriter.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\net9.0\ref\StreamReader_StreamWriter.dll

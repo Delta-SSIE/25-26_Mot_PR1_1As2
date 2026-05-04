@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\StreamReader_StreamWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB00F6AD-F879-421B-930F-A80C6018D866}|StreamReader_StreamWriter\\StreamReader_StreamWriter.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\09_rozsireni_oop\\streamreader_streamwriter\\streamreader_streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB00F6AD-F879-421B-930F-A80C6018D866}|StreamReader_StreamWriter\\StreamReader_StreamWriter.csproj|solutionrelative:streamreader_streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\StreamReader_StreamWriter\\StreamReader_StreamWriter\\Program.cs",
+              "RelativeDocumentMoniker": "StreamReader_StreamWriter\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\StreamReader_StreamWriter\\StreamReader_StreamWriter\\Program.cs",
+              "RelativeToolTip": "StreamReader_StreamWriter\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:53:45.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
