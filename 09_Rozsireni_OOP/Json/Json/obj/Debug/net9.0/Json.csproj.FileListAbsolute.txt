@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\bin\Debug\net9.0\Json.exe
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\bin\Debug\net9.0\Json.deps.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\bin\Debug\net9.0\Json.runtimeconfig.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\bin\Debug\net9.0\Json.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\bin\Debug\net9.0\Json.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.sourcelink.json
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\refint\Json.dll
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.pdb
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\Json.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1A-2S(2025)\09_Rozsireni_OOP\Json\Json\obj\Debug\net9.0\ref\Json.dll

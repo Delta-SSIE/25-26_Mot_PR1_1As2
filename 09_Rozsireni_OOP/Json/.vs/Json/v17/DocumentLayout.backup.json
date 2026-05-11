@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\Json\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA2F51-2878-4FE7-92B8-0CE422F99DBC}|Json\\Json.csproj|c:\\users\\mottja\\source\\pr1-1a-2s(2025)\\09_rozsireni_oop\\json\\json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AA2F51-2878-4FE7-92B8-0CE422F99DBC}|Json\\Json.csproj|solutionrelative:json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\Json\\Json\\bin\\Debug\\net9.0\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Json\\bin\\Debug\\net9.0\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\Json\\Json\\bin\\Debug\\net9.0\\users.json",
+              "RelativeDocumentMoniker": "Json\\bin\\Debug\\net9.0\\users.json",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\Json\\Json\\bin\\Debug\\net9.0\\users.json*",
+              "RelativeToolTip": "Json\\bin\\Debug\\net9.0\\users.json*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T09:25:20.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\Json\\Json\\Program.cs",
+              "RelativeDocumentMoniker": "Json\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1A-2S(2025)\\09_Rozsireni_OOP\\Json\\Json\\Program.cs",
+              "RelativeToolTip": "Json\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:15:48.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
